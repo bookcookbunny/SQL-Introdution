@@ -1,0 +1,1 @@
+select * from book where bookname like '축구의 역사';
